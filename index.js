@@ -1,1 +1,1 @@
-console.log("ESLint & Prettier Template")
+console.log("ESLint & Prettier Template");
